@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>AUTOMATED</type>
+    <description></description>
+    <tag></tag>
+    <comment></comment>
+    <name>TC3_Visual Testing Example (1) (1)</name>
+    <testCaseGuid>c4513709-96cc-4321-af97-5a171188a80a</testCaseGuid>
+</TestCaseEntity>
+
