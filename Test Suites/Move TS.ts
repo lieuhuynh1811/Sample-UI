@@ -15,7 +15,7 @@
         <guid>93e40363-e377-46ee-9873-197dcf13e9c5</guid>
         <isReuseDriver>false</isReuseDriver>
         <isRun>true</isRun>
-        <testCaseId>Test Cases/Main Test Cases/TC3_Visual Testing Example</testCaseId>
+        <testCaseId>Test Cases/Moved Folder/TC3_Visual Testing Example</testCaseId>
     </testCaseLink>
     <testCaseLink>
         <guid>0fac3c2a-aa64-47f4-a951-0aa5b031d03c</guid>
