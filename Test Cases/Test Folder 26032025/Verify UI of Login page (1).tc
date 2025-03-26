@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>MANUAL</type>
+    <description>here is description</description>
+    <tag></tag>
+    <comment></comment>
+    <name>Verify UI of Login page (1)</name>
+    <testCaseGuid>a3917d10-edd0-488b-84f5-1d153748ae39</testCaseGuid>
+</TestCaseEntity>
+
