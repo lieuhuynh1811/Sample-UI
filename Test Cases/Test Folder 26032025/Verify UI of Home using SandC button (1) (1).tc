@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>MANUAL</type>
+    <description></description>
+    <tag></tag>
+    <comment></comment>
+    <name>Verify UI of Home using SandC button (1) (1)</name>
+    <testCaseGuid>f59093b3-585d-4762-a2e7-92c6f3ddd861</testCaseGuid>
+</TestCaseEntity>
+
