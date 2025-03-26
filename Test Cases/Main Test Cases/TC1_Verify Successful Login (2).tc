@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>AUTOMATED</type>
+    <description>Verify if users can login successful. 
+
+Steps:
+- Click on Book Appointment button to login
+- Input username and password
+- Click on Login button
+
+Expected result:
+Appointment section is displayed after successful login</description>
+    <tag></tag>
+    <comment>Story: Login to CURA system
+Given that the user has valid login information
+When he logins to CURA system
+Then he should be able to login successfully</comment>
+    <name>TC1_Verify Successful Login (2)</name>
+    <testCaseGuid>aa7d2097-2127-4aba-b480-f9df8e433472</testCaseGuid>
+    <variable>
+        <defaultValue>John Doe</defaultValue>
+        <description></description>
+        <id>6bd1448c-147a-4af2-a9f0-4e7197afa6f9</id>
+        <masked>false</masked>
+        <name>Username</name>
+    </variable>
+    <variable>
+        <defaultValue>ThisIsNotAPassword</defaultValue>
+        <description></description>
+        <id>1bee17d2-5d18-46a4-8186-2275d4a2a40d</id>
+        <masked>false</masked>
+        <name>Password</name>
+    </variable>
+</TestCaseEntity>
+
